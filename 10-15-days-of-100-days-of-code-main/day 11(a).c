@@ -7,7 +7,7 @@ int main() {
     printf("Enter month number : ");
     scanf("%d", &n);
 
-    
+    printf("Name Shubh\nSAP ID -590021265\nCourse-BCA\nBatch-B5\n");    
     switch(n) {
         case 1:
         printf("January, 31 days\n");
