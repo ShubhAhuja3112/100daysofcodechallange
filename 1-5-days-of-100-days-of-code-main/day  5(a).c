@@ -3,8 +3,7 @@
 
 int main() {
     float principal, rate, time, simpleInterest, compoundInterest;
-
-    
+    printf("Name Shubh\nSAP ID -590021265\nCourse-BCA\nBatch-B5\n");    
     printf("Enter Principal Amount\n");
     scanf("%f", &principal);
 
