@@ -3,7 +3,7 @@
 int main() {
     int n ;
     int last,rev =0 ;
-    
+    printf("Name Shubh\nSAP ID -590021265\nCourse-BCA\nBatch-B5\n");
     printf("Enter the number \n");
     scanf("%d",&n);
     int temp=n;
