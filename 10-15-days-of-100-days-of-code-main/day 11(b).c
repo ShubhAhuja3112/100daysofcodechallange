@@ -3,6 +3,7 @@
 int main() {
     float cp, sp,profit,loss;
     printf("Enter cost price amd selling price");
+    printf("Name Shubh\nSAP ID -590021265\nCourse-BCA\nBatch-B5\n");
     scanf("%f %f", &cp,&sp);
 
     if (sp>cp)
