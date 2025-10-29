@@ -6,6 +6,7 @@ int main() {
     int index = 0;
 
     printf("Enter a number\n");
+    printf("Name Shubh\nSAP ID -590021265\nCourse-BCA\nBatch-B5\n");
     scanf("%d", &number);
 
     
