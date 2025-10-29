@@ -6,7 +6,7 @@ int main() {
     printf("Enter n\n");
     scanf("%d",&n);
     int temp =n;
-    
+    printf("Name Shubh\nSAP ID -590021265\nCourse-BCA\nBatch-B5\n");
     while (n!=0)
     {
         last=n%10;
