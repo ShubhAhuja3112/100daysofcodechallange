@@ -4,6 +4,7 @@
  {
      int a,b,temp,num1,num2;
      printf("Enter the two numbers \n");
+     printf("Name Shubh\nSAP ID -590021265\nCourse-BCA\nBatch-B5\n");  
      scanf("%d %d",&a,&b );
      num1=a;
      num2=b;
