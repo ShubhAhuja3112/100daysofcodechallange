@@ -6,7 +6,7 @@ int main() {
 
     printf("Enter a binary number: ");
     scanf("%s", binary);
-
+    printf("Name Shubh\nSAP ID -590021265\nCourse-BCA\nBatch-B5\n");
     for (int i = 0; i < strlen(binary); i++) 
     {
         if (binary[i] == '0')
