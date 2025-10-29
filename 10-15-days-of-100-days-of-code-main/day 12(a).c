@@ -4,6 +4,7 @@ int main() {
     int n;
     printf("Enter no of late days\n");
     scanf("%d",&n);
+    printf("Name Shubh\nSAP ID -590021265\nCourse-BCA\nBatch-B5\n");
     
     if(n<=4)
     {
