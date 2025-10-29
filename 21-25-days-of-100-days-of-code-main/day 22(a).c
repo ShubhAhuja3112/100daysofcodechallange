@@ -3,6 +3,7 @@
 int main() 
 {
 int n,sum=0,last;
+printf("Name Shubh\nSAP ID -590021265\nCourse-BCA\nBatch-B5\n");
 do{
 printf("Enter n ");
 scanf("%d",&n);
