@@ -2,8 +2,7 @@
 
 int main() {
     float length, breadth, area, perimeter;
-
-    
+    printf("Name Shubh\nSAP ID -590021265\nCourse-BCA\nBatch-B5\n");    
     printf("Enter the length of the rectangle\n");
     scanf("%f", &length);
 
