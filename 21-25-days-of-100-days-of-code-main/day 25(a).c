@@ -3,6 +3,7 @@
 int main() 
 {
     int n;
+    printf("Name Shubh\nSAP ID -590021265\nCourse-BCA\nBatch-B5\n");
     printf("Enter n : ");
     scanf("%d",&n);
     if(n<=0)
