@@ -2,6 +2,7 @@
 
 int main() {
     int seconds, hours, minutes, remainingseconds;
+    printf("Name Shubh\nSAP ID -590021265\nCourse-BCA\nBatch-B5\n");
     printf("Enter time in seconds: ");
     scanf("%d", &seconds);
 
